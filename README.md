@@ -67,7 +67,14 @@ I'm passionate about building applications, backend services, automation, cloud 
 ⭐ Feel free to explore my repositories and projects!
 
 ---
+## 🏆 Certifications
 
+- 🎓 [Claude Certified Associate - Foundations](https://www.credly.com/badges/38019203-558d-4556-867d-f66f4dee2b8d/public_url)
+- ☁️ [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/en-us/users/anjalivishwakarma-6040/credentials/db31993315c03b55)
+- ☁️ [Microsoft Certified: Azure Administrator Associate](https://learn.microsoft.com/en-us/users/anjalivishwakarma-6040/credentials/b5258947ea0dbe31)
+- 🚀 [Microsoft Certified: DevOps Engineer Expert](https://learn.microsoft.com/en-us/users/anjalivishwakarma-6040/credentials/961071adbb55f9df)
+
+---
 ## 🤝 Let's Connect
 
 <div align="left">
