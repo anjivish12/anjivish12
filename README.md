@@ -7,14 +7,15 @@ I'm passionate about building applications, backend services, automation, cloud 
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ DevOps Tools
 
 - 🏗️ Terraform
-- ☁️ Cloud & DevOps
-- 🔧 Git & GitHub
-- 🐳 Microservices
+- 🐳 Docker
+- ☸️ Kubernetes
+- 🔵 Azure DevOps
 - 📦 Helm
-- 🖥️ HTML / JavaScript
+- 🔧 Git & GitHub
+- ☁️ Microsoft Azure
 
 ---
 
