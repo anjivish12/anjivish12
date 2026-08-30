@@ -10,12 +10,12 @@ I'm passionate about building applications, backend services, automation, cloud 
 ## 🛠️ DevOps Tools
 
 - 🏗️ Terraform
+- 🔵 Azure DevOps
+- ☁️ Microsoft Azure
+- 🔧 Git & GitHub
 - 🐳 Docker
 - ☸️ Kubernetes
-- 🔵 Azure DevOps
 - 📦 Helm
-- 🔧 Git & GitHub
-- ☁️ Microsoft Azure
 
 ---
 
