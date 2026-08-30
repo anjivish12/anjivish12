@@ -10,10 +10,6 @@ I'm passionate about building applications, backend services, automation, cloud 
 
 ## 🛠️ Tech Stack
 
-- ☕ Java
-- 🐍 Python
-- ⚛️ React
-- 🐹 Go
 - 🏗️ Terraform
 - ☁️ Cloud & DevOps
 - 🔧 Git & GitHub
