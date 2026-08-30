@@ -57,10 +57,9 @@ I'm passionate about building applications, backend services, automation, cloud 
 
 <div align="left">
 
-<a href="https://github.com/anjivish12">
-  <img src="https://img.shields.io/badge/GitHub-Visit%20My%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/anjivish12?tab=repositories">
+  <img src="https://img.shields.io/badge/GitHub-View%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
 
 </div>
 
