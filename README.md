@@ -25,7 +25,6 @@ I'm passionate about building applications, backend services, automation, cloud 
 
 - 🔹 [Advanced-Terraform-Generic](https://github.com/anjivish12/Advanced-Terraform-Generic)
 - 🔹 [Simple-Terraform-Generic](https://github.com/anjivish12/Simple-Terraform-Generic)
-- 🔹 [terra_test](https://github.com/anjivish12/terra_test)
 
 ### ☕ Java Projects
 
@@ -38,6 +37,7 @@ I'm passionate about building applications, backend services, automation, cloud 
 - 🔹 [vmssInfra](https://github.com/anjivish12/vmssInfra)
 - 🔹 [CostC_Estimation](https://github.com/anjivish12/CostC_Estimation)
 - 🔹 [Lint_ing](https://github.com/anjivish12/Lint_ing)
+- 🔹 [terra_test](https://github.com/anjivish12/terra_test)
 
 ### 🏗️ Todo Application – Monolithic
 
