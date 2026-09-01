@@ -52,6 +52,15 @@ I'm passionate about building applications, backend services, automation, cloud 
 - 🔹 [CostC_Estimation](https://github.com/anjivish12/CostC_Estimation)
 - 🔹 [todo-helm-chart](https://github.com/anjivish12/todo-helm-chart)
 
+### ⚡ Axion Projects
+
+- 🔹 [axion-ui](https://github.com/anjivish12/axion-ui)
+- 🔹 [axion-telemetry-query-service](https://github.com/anjivish12/axion-telemetry-query-service)
+- 🔹 [axion-data-simulator](https://github.com/anjivish12/axion-data-simulator)
+- 🔹 [axion-ingestion-service](https://github.com/anjivish12/axion-ingestion-service)
+- 🔹 [axion-database-schema](https://github.com/anjivish12/axion-database-schema)
+
+
 ---
 
 ## 📊 GitHub Profile
