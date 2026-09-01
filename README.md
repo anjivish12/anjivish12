@@ -27,32 +27,32 @@ I'm passionate about building applications, backend services, automation, cloud 
 - 🔹 [Simple-Terraform-Generic](https://github.com/anjivish12/Simple-Terraform-Generic)
 - 🔹 [terra_test](https://github.com/anjivish12/terra_test)
 
-### 🐍 Python & Microservices
-
-- 🔹 [PyTodoBackendMonolith](https://github.com/anjivish12/PyTodoBackendMonolith)
-- 🔹 [DeleteTodoMicroservices](https://github.com/anjivish12/DeleteTodoMicroservices)
-- 🔹 [GetTaskTodoMicroservices](https://github.com/anjivish12/GetTaskTodoMicroservices)
-- 🔹 [AddTaskTodoMicroservice](https://github.com/anjivish12/AddTaskTodoMicroservice)
-
 ### ☕ Java Projects
 
 - 🔹 [28Java](https://github.com/anjivish12/28Java)
 - 🔹 [JavaLoginPracticeApp](https://github.com/anjivish12/JavaLoginPracticeApp)
-
-### ⚛️ JavaScript / React
-
-- 🔹 [ReactTodoUI](https://github.com/anjivish12/ReactTodoUI)
-- 🔹 [MicroTodoUI](https://github.com/anjivish12/MicroTodoUI)
-- 🔹 [Lint_ing](https://github.com/anjivish12/Lint_ing)
 
 ### 🔧 Other Projects
 
 - 🔹 [HubSpokenInfra](https://github.com/anjivish12/HubSpokenInfra)
 - 🔹 [vmssInfra](https://github.com/anjivish12/vmssInfra)
 - 🔹 [CostC_Estimation](https://github.com/anjivish12/CostC_Estimation)
+- 🔹 [Lint_ing](https://github.com/anjivish12/Lint_ing)
+
+### 🏗️ Todo Application – Monolithic
+
+- 🔹 [ReactTodoUI](https://github.com/anjivish12/ReactTodoUI)
+- 🔹 [PyTodoBackendMonolith](https://github.com/anjivish12/PyTodoBackendMonolith)
+
+### ⚙️ Todo Application – Microservices
+
+- 🔹 [MicroTodoUI](https://github.com/anjivish12/MicroTodoUI)
+- 🔹 [AddTaskTodoMicroservice](https://github.com/anjivish12/AddTaskTodoMicroservice)
+- 🔹 [GetTaskTodoMicroservices](https://github.com/anjivish12/GetTaskTodoMicroservices)
+- 🔹 [DeleteTodoMicroservices](https://github.com/anjivish12/DeleteTodoMicroservices)
 - 🔹 [todo-helm-chart](https://github.com/anjivish12/todo-helm-chart)
 
-### ⚡ Axion Projects
+### ⚡ Axion Projects - Microservices
 
 - 🔹 [axion-ui](https://github.com/anjivish12/axion-ui)
 - 🔹 [axion-telemetry-query-service](https://github.com/anjivish12/axion-telemetry-query-service)
