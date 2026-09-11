@@ -54,6 +54,7 @@ I'm passionate about building applications, backend services, automation, cloud 
 
 ### ⚡ Axion Projects - Microservices
 
+- 🔹 [axion-microservices-infra](https://github.com/anjivish12/axion-microservices-infra)
 - 🔹 [axion-ui](https://github.com/anjivish12/axion-ui)
 - 🔹 [axion-telemetry-query-service](https://github.com/anjivish12/axion-telemetry-query-service)
 - 🔹 [axion-data-simulator](https://github.com/anjivish12/axion-data-simulator)
