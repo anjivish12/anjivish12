@@ -52,7 +52,7 @@ I'm passionate about building applications, backend services, automation, cloud 
 - 🔹 [DeleteTodoMicroservices](https://github.com/anjivish12/DeleteTodoMicroservices)
 - 🔹 [todo-helm-chart](https://github.com/anjivish12/todo-helm-chart)
 
-### ⚡ Axion Projects - Microservices
+### ⚡ Axion Projects - Microservices (Ingress)
 
 - 🔹 [axion-microservices-infra](https://github.com/anjivish12/axion-microservices-infra)
 - 🔹 [axion-ui](https://github.com/anjivish12/axion-ui)
@@ -60,6 +60,11 @@ I'm passionate about building applications, backend services, automation, cloud 
 - 🔹 [axion-data-simulator](https://github.com/anjivish12/axion-data-simulator)
 - 🔹 [axion-ingestion-service](https://github.com/anjivish12/axion-ingestion-service)
 - 🔹 [axion-database-schema](https://github.com/anjivish12/axion-database-schema)
+
+### ⚡ Axion Projects - Microservices (Using Service)
+
+- 🔹 [axion-database-schema](https://github.com/anjivish12/axion-deploy-using-service)
+
 
 
 ---
