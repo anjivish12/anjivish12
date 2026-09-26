@@ -54,6 +54,7 @@ I'm passionate about building applications, backend services, automation, cloud 
 
 ### ⚡ Axion Projects - Infra
 
+- 🔹 [axion-infra-public](https://github.com/anjivish12/axion-infra-public)
 - 🔹 [axion-Infra-Bastion](https://github.com/anjivish12/axion-Infra-Bastion)
 
 ### ⚡ Axion Projects - Microservices (Ingress)
